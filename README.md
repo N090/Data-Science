@@ -4,15 +4,16 @@ Each project is a testament to my ability to extract valuable insights from data
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Table of Contents
-- **Background**
-- **Professional Projects**
-  - *Project 1*
-  - *Project 2*
-- **Personal Projects**
-  - *Project 1*
-  - *Project 2*
-- **Skills**
-- **Contact**
+- [**Background**](#Background)
+- [**Professional Projects**](#Professional-Projects)
+  - [*Project 1*](#Project-1)
+  - [*Project 2*](#Project-2)
+- [**Personal Projects**](#Personal-Projects)
+  - [*Project 3*](#Project-3)
+  - [*Project 4*](#Project-4)
+- [**Skills**](#Skills)
+- [**Contact**](#Contacts)  
+- [**References**](#References) 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Background  
@@ -42,11 +43,11 @@ ________________________________________________________________________________
 
 ## Personal Projects   
 
-## Project 1  
+## Project 3  
 Description:  
 Tools:
 
-## Project 2 
+## Project 4 
   Description:  
   Tools:
 
@@ -65,4 +66,5 @@ Tools:
 Feel free to reach out to me for collaboration or inquiries. You can find me on LinkedIn and GitHub.
   
 Thank you for exploring my Data Science Portfolio! I'm passionate about leveraging data to drive meaningful insights and solve complex problems.  
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## References
