@@ -35,30 +35,45 @@ ________________________________________________________________________________
 
   ## Project 1  
   Description:  
+  Data Sets:  
   Tools:  
   Techniques:  
-  Technologies:
+  Technologies:  
+  Ethics:  
+  Regulations:
+
   ## Project 2 
   Description:  
+  Data Sets:   
   Tools:  
   Techniques:  
-  Technologies:
+  Technologies:  
+  Ethics:  
+  Regulations:
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Personal Projects   
 
 ## Project 3  
 Description:  
+  Data Sets:   
 Tools:  
   Techniques:  
-  Technologies:
+  Technologies:  
+  Ethics:  
+  Regulations:
+
 
 ## Project 4 
   Description:  
+  Data Sets:  
   Tools:  
   Techniques:  
   Technologies:  
-
+  Ethics:  
+  Regulations:
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Skills  
 
 - Programming Languages: Python, SQL, C++, php, Java, JavaScript, React.  
