@@ -35,23 +35,29 @@ ________________________________________________________________________________
 
   ## Project 1  
   Description:  
-  Tools:
+  Tools:  
+  Techniques:  
+  Technologies:
   ## Project 2 
   Description:  
-  Tools:
+  Tools:  
+  Techniques:  
+  Technologies:
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Personal Projects   
 
 ## Project 3  
 Description:  
-Tools:
+Tools:  
+  Techniques:  
+  Technologies:
 
 ## Project 4 
   Description:  
-  Tools:
-
-
+  Tools:  
+  Techniques:  
+  Technologies:  
 
 ## Skills  
 
