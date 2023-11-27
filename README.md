@@ -156,14 +156,10 @@ ________________________________________________________________________________
 ## Personal Projects   
 
 ## Project 3  
-Description:  
-  Data Sets:   
-Tools:  
-  Techniques:  
-  Technologies:  
-  Ethics:  
-  Regulations:
+### Decision Trees and Random Forests
+My third project in this portfolio is an analysis of the Decision Tree and Random Forest Jupyter notebook created by Jake Vanderplas as part of a data science handbook, which can be found [here](https://github.com/N090/Data-Science/blob/main/Random-Forests(NS).ipynb).
 
+Changes were made to the code in this data-science handbook to see what effects they would have on the predictions made I have made Various comments where I made cahnges and documented their effects. 
 
 ## Project 4 
   Description:  
