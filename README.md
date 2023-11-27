@@ -101,15 +101,56 @@ ________________________________________________________________________________
   
 
 
-  ## Project 2  
- **Description:**   
-  **Data Sets:**  
-  **Tools:**  
-  **Techniques:**  
-  **Technologies:**  
-  **Ethics:**  
-  **Regulations:** Compliance to regulations  
-  **Challenges:**  
+  ## Project 2   
+  ### Life, Work, and Death of 1.22M people  
+ **Description:** This is an investigation of 1.22M people around the world from different times and of all backgrounds   
+  **Data Sets:**  [Age dataset: life, work, and death of 1.22M people](https://www.kaggle.com/datasets/imoore/age-dataset/data)   
+  **Tools:** VSCode, Excel, Kaggle, Python.  
+  **Techniques:**  Data visualisation, Pre-processing, Data Cleaning, Statistical analysis   
+  **Technologies:** Python, pandas, numpy, seaborn, ploty.   
+  **Ethics:**   No ethic boundaries are infringed up by the making of this project.   
+  **Regulations:** Compliance to regulations.    
+    
+  **Challenges:** The main challenges I faced with this project are:  
+  -  Finding valuable data which is both useful and extensive.  
+  -  Duplicates reduce the scope of data, which I was able to use.  
+  -  Missing values reduced the scope of the data which was useful in plotting graphs.
+
+![Captureb1](https://github.com/N090/Data-Science/assets/91678195/c6fca146-590c-4dfe-8dc9-bdf3a9d550d5)
+
+![Captureb2](https://github.com/N090/Data-Science/assets/91678195/12848ef0-c803-42f5-89df-90ef2e42ac2f)  
+
+![Captureb3](https://github.com/N090/Data-Science/assets/91678195/a04f96d8-d0dd-4014-b427-3156a176fb6c)  
+
+![Captureb4](https://github.com/N090/Data-Science/assets/91678195/df1a95b2-f3fb-4765-acab-ebed78b5ce19)  
+
+![Captureb8](https://github.com/N090/Data-Science/assets/91678195/feb52068-ccd5-4fd1-a610-5ecf30478795)  
+This graph is representative of the life span of lots of different people,  
+as expect the likes of military personnel has a visably sorter life span than other occupations.  
+
+![image](https://github.com/N090/Data-Science/assets/91678195/58243fd6-d899-4b55-b7ef-6724134d2de5)  
+This Image shows the mean age of death between the top 10 Occupations is 70.007214  
+
+![Captureb10](https://github.com/N090/Data-Science/assets/91678195/a4e43533-cb28-4eff-aef0-8c8fdfac29da)  
+
+This Graph shows us that men outnumber women over time in these occupations drastically.  
+The other in this situation is representative of the other jobs not mentioned previously.  
+
+![Captureb12](https://github.com/N090/Data-Science/assets/91678195/45cc19f1-3ed9-4f86-8128-6ae2859eb263)  
+This Graph paints an interesting picture as it shows military personel and religious figure have had almost equal probabilty  
+of facing capital punishment. Along with this we see that journalist and religious figure face the same fate when it comes to homocide!  
+Military personel face the highest chance of suicide out of all these occupations.  
+  
+![Captureb13](https://github.com/N090/Data-Science/assets/91678195/d7c3276f-1a50-4c4a-823f-96007139b428)  
+    
+![Captureb14](https://github.com/N090/Data-Science/assets/91678195/78327cba-fb7c-487c-88bc-26e6092dd5c1)  
+This graph shows the most referenced country of origin via pie graph and demonstrates the percentage difference between them.  
+
+![Captureb15](https://github.com/N090/Data-Science/assets/91678195/1abaafed-2f49-4dab-8de3-e547163b725d)
+
+This graph represents the type of death which was experienced, showing the relative majority of people passed by natural causes.  
+      
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Personal Projects   
